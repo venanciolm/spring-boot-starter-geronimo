@@ -1,0 +1,23 @@
+{
+	"groups": [
+		{
+			"name": "jta.geronimo",
+			"type": "com.farmafene.geronimo.GeronimoJTAGeronimoAutoconfigurationProperties",
+			"sourceType": "com.farmafene.geronimo.GeronimoJTAGeronimoAutoconfigurationProperties"
+		}
+	],
+	"properties": [
+		{
+			"name": "jta.geronimo.enabled",
+			"type": "java.lang.Boolean",
+			"sourceType": "com.farmafene.geronimo.GeronimoJTAGeronimoAutoconfigurationProperties",
+			"defaultValue": true
+		},
+		{
+			"name": "jta.geronimo.transactionTimeoutSeconds",
+			"type": "java.lang.Integer",
+			"sourceType": "com.farmafene.geronimo.GeronimoJTAGeronimoAutoconfigurationProperties",
+			"defaultValue": 300
+		}
+	]
+}

@@ -1,2 +1,3 @@
-# spring-boot-starter-geronimo
-POC starter Geronimo Transaction Manager - jakarta
+# POC Spring Boot GeronimoTransactionManager
+ 
+Starter Geronimo Transaction.
